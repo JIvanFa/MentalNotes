@@ -1,5 +1,7 @@
 # MentalNotes
 Es un CRUD de notas elaborado en MERN 
+
+
 //Servidor Back-End
 Para inicializar el servidor del Back-end se debe colocar el comando npm run dev
 
